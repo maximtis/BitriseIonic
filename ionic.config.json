@@ -1,5 +1,7 @@
 {
   "name": "BitriseIonic",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "ionic-angular"
 }
